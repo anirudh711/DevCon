@@ -1,4 +1,6 @@
 {
     "mongoURI":"mongodb+srv://anirudh:aniadi@devconnect.zmkdg.mongodb.net/<dbname>?retryWrites=true&w=majority",
-    "jwtSecret":"mysecret"
+    "jwtSecret":"mysecret",
+    "gitID":"52192ad0953462548d61",
+    "gitSec":"0af407978264a08d2a873f05adbe1709565bb0ef"
 }
